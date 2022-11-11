@@ -1,0 +1,6 @@
+ime
+const ime = await contract1.name()
+const contract1 = await ethers.getContractAt("CryptoSocialNetwork", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const name1 = await contract.name()
+const name = await constract.name()
+const contract = ethers.getContractAt("CryptoSocialNetwork", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
